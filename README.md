@@ -139,3 +139,7 @@ void put(u8* base, u32 offset, const T& value) {
 ```
 
 # LICENSED UNDER MIT-LICENSE
+
+<a href="https://www.virustotal.com/gui/file/7b0f927ba6a1b29dd45a944e8546b94181b0e92738ad8fef5d14a7bbfd6beee9/detection" target="_blank" rel="noopener noreferrer">
+  <button type="button">View VirusTotal Scan</button>
+</a>
