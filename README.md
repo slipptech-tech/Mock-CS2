@@ -17,7 +17,7 @@ Instructions:
 
 Open Cmd and run: npm install -g @opencode/cli
 
-Install and launch OpenCode.
+Install, go to OpenCode\node_modules\@opencode\cli-windows-x64\bin  and launch OpenCode.
 
 Specify the full path to cs2.exe.
 
